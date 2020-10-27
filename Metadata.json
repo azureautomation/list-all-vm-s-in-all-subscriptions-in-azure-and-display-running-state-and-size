@@ -1,7 +1,7 @@
 {
     "Author": "J Schipper",
     "ContentSize": 3591,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/list-all-vm's-in-all-subscriptions-in-azure-and-display-running-state-and-size/master/get-all-vms-in-all-subscriptions.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/list-all-vm-s-in-all-subscriptions-in-azure-and-display-running-state-and-size/master/get-all-vms-in-all-subscriptions.ps1",
     "DownloadCount": 16351,
     "Id": "List-all-VMs-in-all-fc092c02",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This script display a list of all VM's created in all your Azure subscriptions and also displays if they are running or stopped and displays their size. The script not only shows VM's in the V1 portal (Service Manager) but also the V2 portal (Resource Manager).For each subscripti",
     "Title": "List all VM's in all subscriptions in Azure and display running state and size",
     "UpdatedDate": "2015-12-21T00:00:00",
-    "Url": "https://github.com/azureautomation/list-all-vm's-in-all-subscriptions-in-azure-and-display-running-state-and-size",
+    "Url": "https://github.com/azureautomation/list-all-vm-s-in-all-subscriptions-in-azure-and-display-running-state-and-size",
     "UserTags": ""
 }
